@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="/rss.xsl" type="text/xsl"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>二叉树上的河马</title><description>A coder-ready Astro blog theme with 59 of your favorite color schemes to choose from</description><link>https://hippoonbtree.netlify.app</link><item><title>发布测试：Hello World</title><link>https://hippoonbtree.netlify.app/posts/hello-world</link><guid isPermaLink="true">https://hippoonbtree.netlify.app/posts/hello-world</guid><description>用于验证站点发布流程与日历重置后的展示效果。</description><pubDate>Sun, 17 Aug 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;这是一次发布流程的测试文章，用于验证：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;列表页与首页最新文章区是否显示该文章&lt;/li&gt;
-&lt;li&gt;RSS/归档/标签页是否正常生成&lt;/li&gt;
-&lt;li&gt;Markdown 渲染、目录、分页是否正常&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;$\int_0^1 x , dx = \left[ \frac{x^2}{2} \right]_0^1 = \left( \frac{1^2}{2} \right) - \left( \frac{0^2}{2} \right) = \frac{1}{2} - 0 = \frac{1}{2}$&lt;/p&gt;
-&lt;p&gt;后续可删除或改名，无其他依赖。&lt;/p&gt;
-</content:encoded><author>Tioryio</author></item><item><title>考研日记day89</title><link>https://hippoonbtree.netlify.app/posts/%E8%80%83%E7%A0%94%E6%97%A5%E8%AE%B0day89</link><guid isPermaLink="true">https://hippoonbtree.netlify.app/posts/%E8%80%83%E7%A0%94%E6%97%A5%E8%AE%B0day89</guid><description>备考日记第 89 天的记录与思考。</description><pubDate>Sun, 17 Aug 2025 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;英语&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="/rss.xsl" type="text/xsl"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>二叉树上的河马</title><description>A coder-ready Astro blog theme with 59 of your favorite color schemes to choose from</description><link>https://hippoonbtree.netlify.app</link><item><title>考研日记day89</title><link>https://hippoonbtree.netlify.app/posts/%E8%80%83%E7%A0%94%E6%97%A5%E8%AE%B0day89</link><guid isPermaLink="true">https://hippoonbtree.netlify.app/posts/%E8%80%83%E7%A0%94%E6%97%A5%E8%AE%B0day89</guid><description>备考日记第 89 天的记录与思考。</description><pubDate>Sun, 17 Aug 2025 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;英语&lt;/h2&gt;
 &lt;p&gt;&lt;s&gt;单词，每日一句&lt;/s&gt;&lt;/p&gt;
 &lt;h2&gt;数学&lt;/h2&gt;
 &lt;p&gt;1000题强化1、2
@@ -16,6 +8,14 @@
 3.3
 960-1.2&lt;/p&gt;
 &lt;h2&gt;政治&lt;/h2&gt;
+</content:encoded><author>Tioryio</author></item><item><title>发布测试：Hello World</title><link>https://hippoonbtree.netlify.app/posts/hello-world</link><guid isPermaLink="true">https://hippoonbtree.netlify.app/posts/hello-world</guid><description>用于验证站点发布流程与日历重置后的展示效果。</description><pubDate>Sun, 17 Aug 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;这是一次发布流程的测试文章，用于验证：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;列表页与首页最新文章区是否显示该文章&lt;/li&gt;
+&lt;li&gt;RSS/归档/标签页是否正常生成&lt;/li&gt;
+&lt;li&gt;Markdown 渲染、目录、分页是否正常&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;$\int_0^1 x , dx = \left[ \frac{x^2}{2} \right]_0^1 = \left( \frac{1^2}{2} \right) - \left( \frac{0^2}{2} \right) = \frac{1}{2} - 0 = \frac{1}{2}$&lt;/p&gt;
+&lt;p&gt;后续可删除或改名，无其他依赖。&lt;/p&gt;
 </content:encoded><author>Tioryio</author></item><item><title>考研日记day90</title><link>https://hippoonbtree.netlify.app/posts/%E8%80%83%E7%A0%94%E6%97%A5%E8%AE%B0day90</link><guid isPermaLink="true">https://hippoonbtree.netlify.app/posts/%E8%80%83%E7%A0%94%E6%97%A5%E8%AE%B0day90</guid><description>备考日记第 90 天的记录与思考。</description><pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;英语&lt;/h2&gt;
 &lt;p&gt;&lt;s&gt;单词，每日一句&lt;/s&gt;&lt;/p&gt;
 &lt;h2&gt;数学&lt;/h2&gt;
